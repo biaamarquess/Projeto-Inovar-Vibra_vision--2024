@@ -6,10 +6,10 @@ A partir dos conhecimentos adquiridos ao longo do semestre sobre HTML e CSS, foi
 
 Utilizamos o conceito principal de Vinicius Bail para criar a identidade visual da marca que desenvolvemos, chamada "Vibra Vision". Nosso foco foi a venda da pulseira, e para isso, escolhemos cores e layouts que harmonizassem com a proposta da marca, transmitindo acessibilidade, inovação e funcionalidade
 
-#Créditos, participações e links:
-> [Projeto de Vinicius Bail](https://www.senaipr.org.br/noticias-da-industria/projeto-de-inovacao-de-aluno-do-parana-e-destaque-na-olimpiada-do-conhecimento-2-34126-380484.shtml)
+# Créditos, participações e links:
+> [Projeto de Vinicius Bail](https://www.senaipr.org.br/noticias-da-industria/projeto-de-inovacao-de-aluno-do-parana-e-destaque-na-olimpiada-do-conhecimento-2-34126-380484.shtml)  
 ![print telainicial](/assets/telainicial.png)
 
 Participações:
-> [Catarine Aparecida Tomaz](https://github.com/tomazzcatarine)
-> [Gabrielly Ribeiro de Lima Sena](https://github.com/GabySena)
+> [Catarine Aparecida Tomaz](https://github.com/tomazzcatarine)  
+> [Gabrielly Ribeiro de Lima Sena](https://github.com/GabySena)  
