@@ -14,7 +14,7 @@ Este foi um dos nossos primeiros sites desenvolvidos no começo do curso, portan
 ![print telainicial](/assets/telainicial.png)  
 
 Participações:
-> [Catarine Aparecida Tomaz](https://github.com/tomazzcatarine)  
+> [Catarine Aparecida Almeida Tomaz](https://github.com/tomazzcatarine)  
 > [Gabrielly Ribeiro de Lima Sena](https://github.com/GabySena)
 
 Links:
