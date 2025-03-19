@@ -15,4 +15,8 @@ Este foi um dos nossos primeiros sites desenvolvidos no começo do curso, portan
 
 Participações:
 > [Catarine Aparecida Tomaz](https://github.com/tomazzcatarine)  
-> [Gabrielly Ribeiro de Lima Sena](https://github.com/GabySena)  
+> [Gabrielly Ribeiro de Lima Sena](https://github.com/GabySena)
+
+Links:
+> [Protótipo](https://www.canva.com/design/DAGPPuascq4/Zffr34LGHTTyh0wFMD0ppQ/edit?utm_content=DAGPPuascq4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+> [Site Renderizado](https://projeto-inovar-vibra-vision-2024.onrender.com/index.html)
